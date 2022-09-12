@@ -11,9 +11,9 @@ export default function Home() {
       <div className="text-[30px] text-[white] md:flex-[50%] p-[20px]">
         <div>Welcome to </div>
         <div className="text-[40px] font-[600]">
-          <span className="text-yellow">Col</span>lege{" "}
-          <span className="text-yellow">S</span>tudent{" "}
-          <span className="text-yellow">Com</span>munity
+          <span className="text-yellow">An</span>other{" "}
+          <span className="text-yellow">Co</span>ding{" "}
+          <span className="text-yellow">Wo</span>rld
         </div>
         <div className="text-[20px] font-[600]">
           A Place for students to find resources and learn.
